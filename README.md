@@ -1,5 +1,5 @@
-# zabawa z modulami
+#Fun with modules
 
-## https://przemekbartecki.github.io/module/index.html
+## https:/kerbenii.github.io/module/index.html
 
 
